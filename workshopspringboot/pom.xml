@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>workshopspringboot</name>
+	<name>0001-springboot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
